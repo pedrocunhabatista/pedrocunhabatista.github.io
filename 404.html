@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Opening Pedro Batista's Portfolio</title>
+  <script>
+    (() => {
+      const validSections = new Set(['home', 'profile', 'vision', 'journey', 'work', 'insights', 'media', 'documents', 'contact']);
+      let section = 'home';
+
+      try {
+        const decoded = decodeURIComponent(location.pathname).replace(/^\/+|\/+$/g, '');
+        if (validSections.has(decoded)) {
+          section = decoded;
+        }
+      } catch (error) {
+        // Invalid URL encoding falls back safely to the homepage.
+      }
+
+      location.replace(`${location.origin}/${location.search}#${section}`);
+    })();
+  </script>
+</head>
+<body>
+  <p>Opening <a href="/#home">Pedro Batista's portfolio</a>&hellip;</p>
+</body>
+</html>
