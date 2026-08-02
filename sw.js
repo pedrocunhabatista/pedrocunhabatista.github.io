@@ -1,4 +1,4 @@
-const CACHE = 'pedro-batista-portfolio-root-v1';
+const CACHE = 'pedro-batista-portfolio-root-v2';
 const CORE = [
   './',
   './index.html',
@@ -22,8 +22,8 @@ const CORE = [
   './assets/slides/slide-08.webp',
   './assets/slides/slide-09.webp',
   './assets/slides/slide-10.webp',
-  './assets/cv/cv-page-1.webp',
-  './assets/cv/cv-page-2.webp'
+  './assets/cv/cv-page-1.webp?v=2',
+  './assets/cv/cv-page-2.webp?v=2'
 ];
 
 self.addEventListener('install', (event) => {
