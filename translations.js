@@ -4,7 +4,7 @@ window.portfolioI18n = {
     'Football Executive': 'Executivo de Futebol',
     'Profile': 'Perfil', 'Vision': 'Visão', 'Journey': 'Percurso', 'Portfolio': 'Portefólio', 'Contact': 'Contacto', 'Share': 'Partilhar',
     'Executive portfolio': 'Portefólio executivo', 'Insights': 'Perspetivas',
-    'Building football structures that turn': 'Construir estruturas de futebol que transformam',
+    'Pedro Cunha Batista — Building football structures that turn': 'Pedro Cunha Batista — Construir estruturas de futebol que transformam',
     'vision into performance.': 'visão em desempenho.',
     'International football executive connecting identity, operations, talent, data and leadership across Europe, Africa, South America and the Middle East.': 'Executivo de futebol internacional, ligando identidade, operações, talento, dados e liderança na Europa, África, América do Sul e Médio Oriente.',
     'Explore my work': 'Conheça o meu trabalho', 'Download CV': 'Descarregar CV', 'Regions': 'Regiões', 'Impact pillars': 'Pilares de impacto', 'Club perspective': 'Visão do clube',
@@ -95,7 +95,7 @@ window.portfolioI18n = {
     'Watch on YouTube · 03:44 ↗': 'Ver no YouTube · 03:44 ↗', 'Your browser does not support embedded video.': 'O seu navegador não suporta vídeo incorporado.'
   },
   meta: {
-    en: { title: 'Pedro Batista | Football Executive', description: 'Pedro Batista — international football executive. Leadership, strategy, academy development, data, innovation and social impact.', ogDescription: 'Executive portfolio — football leadership, strategy and innovation across Europe, Africa, South America and the Middle East.' },
+    en: { title: 'Pedro Cunha Batista | Football Executive & Director of Football', description: 'Pedro Cunha Batista is an international football executive with experience across Europe, Africa and South America in club management, football operations, recruitment, talent development and technology.', ogDescription: 'Pedro Cunha Batista is an international football executive with experience across Europe, Africa and South America in club management, football operations, recruitment, talent development and technology.' },
     pt: { title: 'Pedro Batista | Executivo de Futebol', description: 'Pedro Batista — executivo de futebol internacional. Liderança, estratégia, formação, dados, inovação e impacto social.', ogDescription: 'Portefólio executivo — liderança, estratégia e inovação no futebol na Europa, África, América do Sul e Médio Oriente.' }
   }
 };

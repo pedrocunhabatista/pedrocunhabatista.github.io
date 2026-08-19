@@ -1,4 +1,4 @@
-const CACHE = 'pedro-batista-portfolio-root-v2';
+const CACHE = 'pedro-batista-portfolio-root-v3';
 const CORE = [
   './',
   './index.html',
